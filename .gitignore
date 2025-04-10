@@ -1,0 +1,38 @@
+# Node 依賴
+node_modules/
+
+# 編譯輸出
+dist/
+build/
+
+# Vite 緩存
+.vite/
+
+# TypeScript 編譯輸出
+*.tsbuildinfo
+
+# 環境變數檔
+.env
+.env.local
+.env.*.local
+
+# 日誌檔
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 作業系統
+.DS_Store
+Thumbs.db
+
+# 編輯器／IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# 其它
+.cache/
